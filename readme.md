@@ -1,2 +1,2 @@
-# Python n shit
+# FREEDOM
 
