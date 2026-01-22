@@ -1,2 +1,2 @@
-# i member your genocides
+# Python n shit
 
