@@ -2,8 +2,10 @@
 
 def calculations(a, b, c):
     if a == 1:
-       return b + c
+       return b + c     
+       
     elif a == 2:
+       return b - c
 
     elif a == 3:
     
