@@ -1,6 +1,7 @@
 # Python Development Calculator
 
 def calculations(a, b, c):
+
     if a == 1:
        return b + c     
        
@@ -13,8 +14,10 @@ def calculations(a, b, c):
       
     else:
         return "invalid"
+
         
 def Program():
+
     num1 = int(input("Enter 1st number: "))
     num2 = int(input("Enter 2nd number: "))
     print("choose an option(number)")
@@ -23,6 +26,7 @@ def Program():
     print(f"\n\n\nComputed Ammount: {calculations(option, num1, num2)}")
 
 if __name__  == "__main__":
+
     Program()
         
 
